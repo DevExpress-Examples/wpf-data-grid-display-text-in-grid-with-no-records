@@ -33,8 +33,7 @@
                          AutoGenerateColumns="AddNew" Grid.Row="1" >
             
             <dxg:GridControl.View>
-                <dxg:TableView Name="view" local:EmptyGridHelper.EmptyGridTemplate="{StaticResource emptyGridTemplate}"
-                               />
+                <dxg:TableView Name="view" ShowEmptyText="True"/>
             </dxg:GridControl.View>
         </dxg:GridControl>
     </Grid>
