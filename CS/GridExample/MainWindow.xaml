@@ -12,12 +12,6 @@
         <local:PersonsViewModel />
     </Window.DataContext>
     
-    <Window.Resources>
-        <DataTemplate x:Key="emptyGridTemplate">
-            <TextBlock Text="There is no data to display" Foreground="Gray" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-        </DataTemplate>
-    </Window.Resources>
-
     <Grid >
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
