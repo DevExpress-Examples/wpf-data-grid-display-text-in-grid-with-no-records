@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WPF Data Grid - Display Text if the Grid Contains no Records
+# WPF Data Grid - How to Display Text in a Grid With No Records
 
 This example demonstrates how to display a text message in the [GridControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl) if the grid contains no records:
 
