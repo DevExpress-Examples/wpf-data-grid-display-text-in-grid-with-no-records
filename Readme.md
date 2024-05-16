@@ -6,12 +6,12 @@
 
 # WPF Data Grid - Display Text in a Grid With No Records
 
-This example demonstrates how to display a text message in the [GridControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl) if the grid contains no records:
+This example displays a custom text message in the [GridControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl) if the grid contains no records:
 
 1. Set the [DataViewBase.ShowEmptyText](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.DataViewBase.ShowEmptyText) property to `true`.
 2. Use the [DataViewBase.RuntimeLocalizationStrings](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.DataViewBase.RuntimeLocalizationStrings) property to change the default text message ("No Records").
 
-![image](https://github.com/AndreySlabov/how-to-display-a-line-when-the-dxgrid-doesnt-include-any-record-e1786/assets/65009440/a5ca8e92-1295-4e18-973f-b36a2f9b813f)
+![image](https://github.com/DevExpress-Examples/wpf-data-grid-display-text-in-grid-with-no-records/assets/65009440/75dfd446-af13-4812-9587-ecaf9a012ba2)
 
 ## Files to Review
 
