@@ -13,7 +13,7 @@
 Set the [DataViewBase.ShowEmptyText](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.DataViewBase.ShowEmptyText) property to display a message in the grid if there are no visible rows.
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-display-text-in-grid-with-no-records&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-display-text-in-grid-with-no-records&~~~was_helpful=no)
 
